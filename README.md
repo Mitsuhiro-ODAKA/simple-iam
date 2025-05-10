@@ -1,4 +1,4 @@
-# Simple IAM using SciPy
+# Simple Integrated Assessment Model (IAM) with Climate-Economy Tradeoffs
 
 This repository provides a simple Integrated Assessment Model (IAM) implemented in Python using the SciPy optimization library.
 It is based on a Solow-style growth model under climate constraints and solves for the optimal savings and mitigation paths.
@@ -16,9 +16,6 @@ It is based on a Solow-style growth model under climate constraints and solves f
 ## Directory Structure
 
 - `notebooks/`: Jupyter Notebook with full implementation
-- `src/`: Optional Python module with reusable model functions
-- `figures/`: Output plots (if saved)
-- `data/`: Placeholder for input datasets (not required for this example)
 
 ## Getting Started
 
